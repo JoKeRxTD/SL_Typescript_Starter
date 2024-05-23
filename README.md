@@ -1,6 +1,6 @@
 # Serverless Typescript Starter
 
-<img width="400" src="https://s3-us-west-2.amazonaws.com/assets.site.serverless.com/logos/Serverless_mark_black_400x400_v3%402x.jpg">
+<img width="400" src="https://cdn.jokerdev.xyz/img/dev_63tm924s.png">
 
 ## Installation
 
